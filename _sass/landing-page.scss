@@ -59,4 +59,8 @@
 	// .content section:nth-child(even) .flex {
 	// 	flex-direction: row-reverse;
 	// }
+	.content .flex .cta {
+		flex-basis: 350px;
+		// flex-direction: column;
+	}
 }
